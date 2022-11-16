@@ -1,7 +1,21 @@
-Edit, Delete, View Test's Question
-Edit, Delete, View Student's Information
-Add New Test
-Change Status Of A Test
-See Student's Result In A Test
-Change Admin Password
+## Multiple Choice Test Web is a webpage that allows teacher to create tests for exam and manage test results online, it also have feature for taking an exam that created on this webpage.
+## FEATURES 
+ADMIN
+- [x] Edit, Delete, View Test Questions
+- [x] Edit, Delete, View Teacher And Student's Information
+- [x] Add New Tests
+- [x] Change Status Of Tests
+- [x] See Student's Result In Tests
+- [x] Change Admin Password
 
+TEACHER
+- [x] Edit, Delete, View Test Questions
+- [x] Edit, Delete, View Teacher Information
+- [x] Add New Test
+- [x] Change Status Of Tests
+- [x] See Student's Result In Tests
+- [x] Change Personal Password
+
+STUDENT
+- [x] Take Tests
+- [x] See Tests That Already Taken And Test Results
